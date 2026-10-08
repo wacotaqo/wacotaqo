@@ -2,6 +2,8 @@
 
 Component lab for a family Barbu web game. Hub + `/lab/*` playgrounds.
 
+**Temporary home:** branch on `wacotaqo/wacotaqo` until we split into `wacotaqo/barbu-lab`. Do not merge over the profile README on `main` unless intentional.
+
 Later: assemble and host at `barbu.wacotaqo.dev` via WacoLabs. **Not on the WacoLabs board yet.**
 
 ## Stack
